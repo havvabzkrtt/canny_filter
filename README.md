@@ -9,6 +9,9 @@ Farklı blurlama yöntemleri ve farklı parametreler kullanılarak canny kenar b
 * canny için treshold1 = 20 
 * canny için treshold2 = 30
 
+![canny_gauss_3](https://github.com/havvabzkrtt/canny_filter/assets/81237002/9b41ed93-9f86-479c-95c0-f31d6e5f0e7f)
+
+
 ![image](https://github.com/havvabzkrtt/canny_filter/assets/81237002/41c5e4ed-69ed-4103-b747-1789fc6250e5)
 
 
